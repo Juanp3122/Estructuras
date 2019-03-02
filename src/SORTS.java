@@ -5,7 +5,7 @@ public class SORTS {
 
 		int []a= new int[10];
 		for (int i = 0; i < a.length; i++) {
-			a[i]=(int) (Math.random() * 30) + 1;;
+			a[i]=(int) (Math.random() * 30) + 1;
 
 		}
 		System.out.println(Arrays.toString(a));
